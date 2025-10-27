@@ -212,6 +212,6 @@ Zhang, K., Zhang, Z., Li, Z., & Qiao, Y. (2016). Joint face detection and alignm
 
 ---
 
-**Author Note**: This research utilized open-source implementations (FaceNet-PyTorch, FAISS, Redis) deployed on Google Colaboratory infrastructure. No conflicts of interest declared. Correspondence: [research@facialrecognition.ai]
+**Author Note**: This research utilized open-source implementations (FaceNet-PyTorch, FAISS, Redis) deployed on Google Colaboratory infrastructure. No conflicts of interest declared.
 
 **Word Count**: 2,847 (extended version with comprehensive statistical reporting)
